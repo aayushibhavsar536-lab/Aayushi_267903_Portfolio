@@ -78,6 +78,16 @@ button {
 button:hover {
     background-color: #c74370;
 }
+/* Class Selector */
+.about-heading {
+    color: #e75480;
+    font-weight: bold;
+}
+
+/* ID Selector */
+#about {
+    text-decoration: underline;
+}
 @media (max-width: 600px) {
     body {
         padding: 15px;
